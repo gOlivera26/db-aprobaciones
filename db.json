@@ -1,10 +1,10 @@
 {
   "inscriptos": [
-    { "legajo": "12345", "nombre": "Juan Perez", "cuit": "20-12345678-9", "condicion": "Alumno", "asistencia": "80%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "12346", "nombre": "Gaston Gonza", "cuit": "27-98765432-1", "condicion": "Capacitador", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "13245", "nombre": "Rocio Tamargo", "cuit": "27-98765432-1", "condicion": "Alumno", "asistencia": "50%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "12344", "nombre": "Maria Fredo", "cuit": "27-98765432-1", "condicion": "Alumno", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "12313", "nombre": "Fran Gomez", "cuit": "27-98765432-1", "condicion": "Alumno", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "12234", "nombre": "Pedo Puto", "cuit": "27-98765432-1", "condicion": "Capacitador", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" }
+    { "legajo": "12345", "nombre": "Juan Perez", "cuit": "20-12345678-9", "tipoInscripto": "Alumno", "asistencia": "80%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "12346", "nombre": "Gaston Gonza", "cuit": "27-98765432-1", "tipoInscripto": "Capacitador", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "13245", "nombre": "Rocio Tamargo", "cuit": "27-98765432-1", "tipoInscripto": "Alumno", "asistencia": "50%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "12344", "nombre": "Maria Fredo", "cuit": "27-98765432-1", "tipoInscripto": "Alumno", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "12313", "nombre": "Fran Gomez", "cuit": "27-98765432-1", "tipoInscripto": "Alumno", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "12234", "nombre": "Pedo Puto", "cuit": "27-98765432-1", "tipoInscripto": "Capacitador", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" }
   ]
 }
