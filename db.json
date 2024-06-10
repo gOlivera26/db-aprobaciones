@@ -1,14 +1,10 @@
 {
-  "tipoInscripto": [
-    { "id": 0, "descripcion": "Capacitador" },
-    { "id": 1, "descripcion": "Alumno" }
-  ],
   "inscriptos": [
-    { "legajo": "12345", "nombre": "Juan Perez", "cuit": "20-12345678-9", "tipoInscriptoId": 1, "asistencia": "80%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "12346", "nombre": "Gaston Gonza", "cuit": "27-98765432-1", "tipoInscriptoId": 0, "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "13245", "nombre": "Rocio Tamargo", "cuit": "27-98765432-1", "tipoInscriptoId": 1, "asistencia": "50%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "12344", "nombre": "Maria Fredo", "cuit": "27-98765432-1", "tipoInscriptoId": 0, "asistencia": "70%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "12313", "nombre": "Fran Gomez", "cuit": "27-98765432-1", "tipoInscriptoId": 1, "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
-    { "legajo": "12234", "nombre": "Matias Miranda", "cuit": "27-98765432-1", "tipoInscriptoId": 0, "asistencia": "100%", "estado": "Sin Indicar", "accion": "" }
+    { "legajo": "12345", "nombre": "Juan Perez", "cuit": "20-12345678-9", "tipoInscripto": "Alumno", "asistencia": "80%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "12346", "nombre": "Gaston Gonza", "cuit": "27-98765432-1", "tipoInscripto": "Capacitador", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "13245", "nombre": "Rocio Tamargo", "cuit": "27-98765432-1", "tipoInscripto": "Alumno", "asistencia": "50%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "12344", "nombre": "Maria Fredo", "cuit": "27-98765432-1", "tipoInscripto": "Alumno", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "12313", "nombre": "Fran Gomez", "cuit": "27-98765432-1", "tipoInscripto": "Alumno", "asistencia": "100%", "estado": "Sin Indicar", "accion": "" },
+    { "legajo": "12234", "nombre": "Matias Miranda", "cuit": "27-98765432-1", "tipoInscripto": "Capacitador", "asistencia": "70%", "estado": "Sin Indicar", "accion": "" }
   ]
 }
